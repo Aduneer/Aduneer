@@ -1,12 +1,14 @@
 # Hey 👋
-Curious about computers and how things work. \
+
+Curious about computers and how things work.
+
 I like building things, breaking things, and figuring out why they broke.
 
-Currently exploring **C++, Python, data, AI, systems, and OS stuff**. \
-No particular niche yet.
-Just learning, tinkering, and experimenting.
+Currently exploring **Go, C++, Python, data, AI, systems, and OS stuff**.
 
-Most things here are works in progress.
+No fixed niche. I mostly follow whatever rabbit hole looks interesting.
+
+Most things here are experiments, tools, or attempts to understand something a little better.
 
 ---
 
@@ -19,3 +21,5 @@ Most things here are works in progress.
 </details>
 
 ---
+
+*works on my machine*
