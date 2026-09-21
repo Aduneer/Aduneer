@@ -23,3 +23,7 @@ Most things here are experiments, tools, or attempts to understand something a l
 ---
 
 *works on my machine*
+
+---
+
+![moe counter](https://count.getloli.com/@Aduneer?theme=moebooru)
