@@ -15,9 +15,22 @@ Most things here are experiments, tools, or attempts to understand something a l
 <details>
 <summary><strong>Certs/profiles:</strong> <em>(credentialmaxxing, unclear ROI)</em></summary>
 <br>
+
 <a href="https://www.boot.dev/u/aduneer">
-  <img src="https://api.boot.dev/v1/users/public/49db302f-b1eb-408a-90cf-aad0e041a99d/thumbnail" width="240" alt="boot.dev profile thumbnail">
+  <img
+    src="https://api.boot.dev/v1/users/public/49db302f-b1eb-408a-90cf-aad0e041a99d/thumbnail"
+    width="240"
+    alt="Boot.dev profile thumbnail"
+  >
 </a>
+<a href="https://www.boot.dev/certificates/06251d6f-380c-4b78-8e2f-8cbbfa8f5958">
+  <img
+    src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/06251d6f-380c-4b78-8e2f-8cbbfa8f5958.jpeg?v=1790093395"
+    width="240"
+    alt="Boot.dev Backend Developer Path certificate"
+  >
+</a>
+
 </details>
 
 ---
